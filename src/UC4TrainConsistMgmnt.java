@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class UseCase4TrainConsistMgmnt {
+public class UC4TrainConsistMgmnt {
     public static void main(String[] args) {
         System.out.println("==========================================");
         System.out.println(" UC4 - Maintain Ordered Bogie Consist ");
