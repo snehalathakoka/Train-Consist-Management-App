@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 
 public class UC8FilterPassengerBogiesUsingStreams {
 
-    // Define the class INSIDE to avoid duplicate class errors with UC7
+
     static class Bogie {
         String name;
         int capacity;
